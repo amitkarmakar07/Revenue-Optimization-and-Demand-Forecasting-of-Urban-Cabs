@@ -30,8 +30,8 @@ This project focuses on building a data-driven system to **predict hourly zone-w
   - Revenue efficiency distribution across time and zones. etc.
 
 #### 📷 Dashboard Screenshots
-![Dashboard Screenshot 1](assets/img1)
-![Dashboard Screenshot 2](assets/img2)
+![Dashboard Screenshot 1](assets/img2.png)
+![Dashboard Screenshot 2](assets/img1.png)
 
 ---
 
