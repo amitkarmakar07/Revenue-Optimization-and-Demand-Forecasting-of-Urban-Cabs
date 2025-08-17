@@ -45,6 +45,9 @@ This project focuses on building a data-driven system to **predict hourly zone-w
 
 ---
 
+‼️**If the .ipynb file doesn’t open on GitHub, please download it and open in VS Code with the Jupyter extension.**
+
+
 ## 📬 Contact
 
 For feedback, suggestions, or collaboration, feel free to reach out:
