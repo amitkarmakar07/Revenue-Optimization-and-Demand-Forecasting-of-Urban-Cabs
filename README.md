@@ -18,9 +18,9 @@ This project focuses on building a data-driven system to **predict hourly zone-w
 
 ### 3. **Machine Learning Modeling**
 - Tested multiple models for predicting hourly cab demand per zone.
-- Final model: **Gradient Boosting Regressor**
-  - **MAE**: `9.53`
-  - **R² Score**: `0.84`
+- Final model: **Random Forest Regressor**
+  - **MAE**: `8.421`
+  - **R² Score**: `0.86`
 - Model trained on feature-engineered dataset capturing temporal and spatial dynamics.
 
 ### 4. **Revenue Optimization Dashboard**
